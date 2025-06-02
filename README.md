@@ -7,4 +7,3 @@ A system of linear inequalities defines a polytope as a feasible region. The sim
 ![image](https://github.com/user-attachments/assets/6235584b-3d77-4cc2-8d43-394902e8cfe9)
 
 $$c_1 x_1+c_2 x_2+c_3 x_3→max$$
-$$
